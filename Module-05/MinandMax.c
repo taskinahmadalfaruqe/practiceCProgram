@@ -1,19 +1,34 @@
 #include <stdio.h>
 int main()
 {
-    int num = 5;
-    int n='A';
-    if (num > 10)
+    int a, b, c;
+    scanf("%d%d%d", &a, &b, &c);
+
+    // Find Small Number
+    if (a <= b && a <= c)
     {
-        printf("Greater than 10");
+        printf("%d ", a);
     }
-    else if (num < 10)
+    else if (b <= a && b <= c)
     {
-        printf("Less than 10");
+        printf("%d ", b);
     }
     else
     {
-        printf("Equal to 10");
+        printf("%d ", c);
+    }
+    //  Find big number
+    if (a >= b && a >= c)
+    {
+        printf("%d", a);
+    }
+    else if (b >= a && b >= c)
+    {
+        printf("%d", b);
+    }
+    else
+    {
+        printf("%d", c);
     }
     return 0;
 }
