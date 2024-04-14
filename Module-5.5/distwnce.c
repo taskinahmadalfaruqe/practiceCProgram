@@ -10,5 +10,6 @@ int main()
         step = step + 1;
     }
     printf("%d", step);
+
     return 0;
 }
