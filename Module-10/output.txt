@@ -1,2 +1,3 @@
-22
-Taskin Ahmad Al Faruqe
+For Loop- 31
+While Loop- 31
+String Length-31
