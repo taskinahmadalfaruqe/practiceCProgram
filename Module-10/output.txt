@@ -1,3 +1,1 @@
-For Loop- 31
-While Loop- 31
-String Length-31
+100
