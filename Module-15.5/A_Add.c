@@ -8,6 +8,7 @@ int sum(int x, int y)
 }
 int main()
 {
+
     int a, b;
     scanf("%d%d", &a, &b);
     int summation = sum(a, b);
