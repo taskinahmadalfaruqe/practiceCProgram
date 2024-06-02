@@ -23,7 +23,7 @@ int main()
         }
         else
         {
-            printf("%d ", ar[i]);
+            printf("%d ",ar[i]);
         }
     }
 
