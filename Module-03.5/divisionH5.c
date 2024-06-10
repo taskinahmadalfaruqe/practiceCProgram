@@ -12,7 +12,8 @@ int main()
     {
         for (a = 1; a <= N; a++)
         {
-            printf("%d ", a);
+           
+ printf("%d ", a);
             if (a % 5 == 0)
             {
                 printf("Yes\n");
