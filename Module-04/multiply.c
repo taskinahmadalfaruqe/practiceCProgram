@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
-{
-    long long int A, B;
+{'C;
+    long long int A, B,C;
     long long int Total;
-    scanf("%lld %lld", &A,&B);
-    Total=A*B;
+    scanf("%lld %lld %lld", &A,&B,&C);
+    Total=A*B*C;
     printf("%lld", Total);
     return 0;
 }
