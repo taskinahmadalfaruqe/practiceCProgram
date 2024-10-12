@@ -26,6 +26,5 @@ int main()
         printf("%d ", ar[j][b - 1]);
     }
     printf("\n");
-
     return 0;
 }

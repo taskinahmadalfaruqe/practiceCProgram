@@ -13,7 +13,6 @@ int main()
             scanf("%d", &ar[i][j]);
         }
     }
-
     for (int a = 0; a < row; a++)
     {
         for (int i = col-1; i >= 0; i--)
@@ -22,6 +21,5 @@ int main()
         }
         printf("\n");
     }
-
     return 0;
 }
