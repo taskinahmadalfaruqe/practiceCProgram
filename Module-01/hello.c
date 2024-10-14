@@ -2,8 +2,6 @@
 int main()
 {
     int a;
-    printf("Hello");
-    scanf("%d", &a);
-    printf("%d", a);
+    printf("I love Programming.");
     return 0;
 }
