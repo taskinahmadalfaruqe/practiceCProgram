@@ -1,1 +1,1 @@
-a
+Input Number is: 1, And Output Number Is: 1
