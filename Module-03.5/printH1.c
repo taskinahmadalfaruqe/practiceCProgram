@@ -2,4 +2,5 @@
 int main()
 {
     printf("I Love Programming");
+return 0;
 }
