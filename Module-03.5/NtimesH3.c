@@ -6,7 +6,7 @@ int main()
     scanf("%d", &N);
     if (N < 0)
     {
-        printf("Please Input A Positive Number.");
+        printf("Please Input A Positive Numbe");
     }
     else
     {
